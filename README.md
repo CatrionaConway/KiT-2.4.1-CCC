@@ -1,4 +1,4 @@
-KiT (Kinetochore Tracking) software
+KiT (Kinetochore Tracking) software - PLEASE NOTE THIS VERSION IS NOT YET EDITED TO IMPLEMENT CHANGES MADE - PLEASE USE ORIGINAL VERSION AT WARWICK-CMCB GITHUB FOR NOW (23rd August 2024)
 ===================================
 
 [![DOI](https://zenodo.org/badge/111115260.svg)](https://zenodo.org/badge/latestdoi/111115260)
